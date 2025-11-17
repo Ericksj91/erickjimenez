@@ -6,7 +6,7 @@ Soy un desarrollador web en formación, apasionado por la tecnología y la creac
 
 - 📄 *HTML5, CSS*
 - 🌐 *JavaScript, **React* y *Node.js*  
-- 🎮 *C#* y *Unity* (camino hacia desarrollo de videojuegos)  
+- 🎮 *C#* y *Unity* (para desarrollo de videojuegos)  
 - 🧩 Buenas prácticas, Git y GitHub
 
 Me gusta aprender construyendo, mejorar cada día y explorar nuevas herramientas.
